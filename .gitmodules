@@ -8,3 +8,8 @@
 	url = https://github.com/cran/rpls
 	shallow = true
 	registered = true
+[submodule "StatDA"]
+	path = StatDA
+	url = https://github.com/cran/StatDA
+	shallow = true
+	registered = true
