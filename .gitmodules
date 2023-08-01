@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "rpls"]
-	path = rpls
-	url = https://github.com/cran/rpls
 [submodule "StatDA"]
 	path = StatDA
 	url = https://github.com/cran/StatDA
+[submodule "rpls"]
+	path = rpls
+	url = https://github.com/cran/rpls
