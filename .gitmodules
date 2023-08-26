@@ -5,6 +5,9 @@
 [submodule "StatDA"]
 	path = StatDA
 	url = https://github.com/cran/StatDA
+[submodule "chemometrics"]
+	path = chemometrics
+	url = https://github.com/cran/chemometrics
 [submodule "rpls"]
 	path = rpls
 	url = https://github.com/cran/rpls
